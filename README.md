@@ -5,7 +5,7 @@ A simple and sleek budget tracking PWA.  This application is perfect for someone
 
 ## Usage
 Add or subtract funds, label the transactions and the tracker will display a graph of your expense trends.  
-[!budget-tracker](./public/images/budget-screenshot.png)
+![budget-tracker](./public/images/budget-screenshot.png)
 
 This application also works offline!  Fill out your transactions even when you have no internet connection and Budget Tracker will update flawlessly
 
